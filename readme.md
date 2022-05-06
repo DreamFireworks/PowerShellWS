@@ -5,22 +5,22 @@
 
 ## Some useful commands
 
--Getting details for command:
+- Getting details for command:
 `Get-Help -Name 'Write-Output' -Full`
 
--To create a file:
+- To create a file:
 `New-Item [filename]`
 
--To open file in VSCode editor:
+- To open file in VSCode editor:
 `code [filename]`
 
--Promt:
+- Promt:
 `Write-Output "string. $var etc."`
 
--Input:
+- Input:
 `Read-Host`
 
--Input with prompting message:
+- Input with prompting message:
 `Read-Host -Prompt "Message"`
 
 
